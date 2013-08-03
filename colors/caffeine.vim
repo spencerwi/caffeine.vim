@@ -26,7 +26,7 @@ hi Function	    guifg=#f78181   ctermfg=210
 hi Identifier	guifg=#ffa970   ctermfg=215    
 hi LineNr	    guifg=#d4ab90   ctermfg=180    
 hi MatchParen	guifg=#ccffcc   ctermfg=214    guibg=#008b8b    ctermbg=30    
-hi Normal	    guifg=#d6d6d6   ctermfg=252    guibg=#261e19    ctermbg=16    
+hi Normal	    guifg=#d6d6d6   ctermfg=252    guibg=#261e19    ctermbg=NONE   
 hi NonText	    guifg=#81bed6   ctermfg=110   
 hi Number	    guifg=#cc7676   ctermfg=174  
 hi PMenu        guibg=#806240   ctermbg=94
